@@ -17,3 +17,12 @@
     <hr>
 </body>
 </html>
+  <p>背🐚</p>
+<p>A.寬握滑輪下拉 熱身15x3<p>
+<p>B.寬握滑輪下拉 正式8-10x3<p>
+<p>C.坐姿划船8-10x3<p>
+<p>D.Hammer Row 6-8x3<p>
+<p>E.Pull-over10x3<p>
+    <hr>
+</body>
+</html>
