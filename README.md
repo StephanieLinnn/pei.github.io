@@ -24,5 +24,3 @@
 <p>D.Hammer Row 6-8x3<p>
 <p>E.Pull-over10x3<p>
     <hr>
-</body>
-</html>
