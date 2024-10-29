@@ -21,11 +21,11 @@
     <p>D.啞鈴RDL6-8x3</p>
     <hr>
     <p>背🐚</p>
-    <p>A.寬握滑輪下拉 熱身15x3</p>
+    <p>A.扶牆or地orBench 啟動前鉅肌熱身10x3</p>
     <p>B.寬握滑輪下拉 正式6-8x3</p>
-    <p>C.坐姿划船8-10x3</p>
-    <p>D.Hammer Row 6-8x3</p>
-    <p>E.啞鈴划船10x3</p>
+    <p>C.啞鈴划船(寬重)10x3</p>
+    <p>D.啞鈴划船(窄輕)10x3</p>
+    <p>E.Hammer high row 6-8x3</p>
     <hr>
   </body>
 </html>
